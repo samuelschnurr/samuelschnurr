@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @samuelschnurr
 - 👀 I’m interested in technologie experiments, open source projects and Microsoft stack
-- 🌱 I’m currently working on Web Assembly and Blazor
+- 🌱 I’m currently learning Blazor Web Assembly
 - 📫 To reach me check out https://schnurr.io
